@@ -1,0 +1,53 @@
+{
+  "name": "koa-legit",
+  "version": "0.0.1",
+  "description": "Koa middleware to validate and sanitize HTTP request",
+  "license": "MIT",
+  "author": "Claud D. Park <posquit0.bj@gmail.com> (http://www.posquit0.com)",
+  "contributors": [],
+  "homepage": "https://github.com/posquit0/koa-legit#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/posquit0/koa-legit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/posquit0/koa-legit/issues"
+  },
+  "keywords": [
+    "koa",
+    "koa-validator",
+    "koa-middleware",
+    "validate",
+    "validator",
+    "validation",
+    "sanitize",
+    "sanitizer",
+    "sanitization",
+    "middlewarej"
+  ],
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "index.js",
+    "lib/"
+  ],
+  "main": "index",
+  "scripts": {
+    "test": "NODE_ENV=test jest --forceExit",
+    "test:watch": "npm test -- --watch",
+    "test:coverage": "npm test -- --coverage",
+    "lint": "eslint lib test",
+    "lint:lib": "eslint lib",
+    "lint:test": "eslint test"
+  },
+  "dependencies": {
+    "debug": "^3.0.0"
+  },
+  "devDependencies": {
+    "coveralls": "^3.0.0",
+    "eslint": "^4.5.0",
+    "eslint-config-omnious": "^0.3.0",
+    "jest": "^21.0.2"
+  }
+}
