@@ -23,7 +23,7 @@
     "sanitize",
     "sanitizer",
     "sanitization",
-    "middlewarej"
+    "middleware"
   ],
   "engines": {
     "node": ">=4"
@@ -43,11 +43,11 @@
   },
   "dependencies": {
     "debug": "^3.1.0",
-    "validator": "^9.0.0"
+    "validator": "^9.1.1"
   },
   "devDependencies": {
     "coveralls": "^3.0.0",
-    "eslint": "^4.5.0",
+    "eslint": "^4.11.0",
     "eslint-config-omnious": "^0.3.0",
     "jest": "^21.0.2"
   }
