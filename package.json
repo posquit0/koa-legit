@@ -1,6 +1,6 @@
 {
   "name": "koa-legit",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Koa middleware to validate and sanitize HTTP request",
   "license": "MIT",
   "author": "Claud D. Park <posquit0.bj@gmail.com> (http://www.posquit0.com)",
