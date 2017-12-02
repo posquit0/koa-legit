@@ -90,6 +90,11 @@ This project follows the [**Contributor Covenant**](http://contributor-covenant.
 Please use the [issue tracker](https://github.com/posquit0/koa-legit/issues) to report any bugs or ask feature requests.
 
 
+## Self Promotion
+
+Like koa-legit? Follow the repository on [GitHub](https://github.com/posquit0/koa-legit). And if you're feeling especially charitable, follow [posquit0](https://posquit0.com) on [GitHub](https://github.com/posquit0).
+
+
 ## Contact
 
 If you have any questions, feel free to join me at [`#posquit0` on Freenode](irc://irc.freenode.net/posquit0) and ask away. Click [here](https://kiwiirc.com/client/irc.freenode.net/posquit0) to connect.
