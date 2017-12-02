@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/posquit0/koa-rest-api-boilerplate" title="Koa REST API Boilerplate">
+  <a href="https://github.com/posquit0/koa-legit" title="Koa Legit">
     <img alt="Koa Legit" src="http://www.hey.fr/fun/emoji/twitter/en/icon/twitter/706-emoji_twitter_horizontal_traffic_light.png" width="220px" />
   </a>
   <br />
